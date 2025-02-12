@@ -4,7 +4,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>OI</h1>
+      <h1>oii</h1>
     </div>
   );
 }
